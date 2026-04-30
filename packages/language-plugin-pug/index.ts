@@ -1,3 +1,4 @@
+
 import { SourceMap } from '@volar/source-map';
 import type * as CompilerDOM from '@vue/compiler-dom';
 import type { VueLanguagePlugin } from '@vue/language-core';
@@ -145,3 +146,4 @@ function calculateMinIndent(s: string) {
 	}, Infinity);
 	return minIndent;
 }
+english
